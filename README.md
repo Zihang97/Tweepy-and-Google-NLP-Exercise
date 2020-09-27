@@ -12,4 +12,6 @@ Following the steps in natural language API quickstarts
 gcloud ml language analyze-entities --content="Michelangelo Caravaggio, Italian painter, is known for 'The Calling of Saint Matthew'."
 ```
 Succeed!
-![Image](https://github.com/Zihang97/Google-NLP/blob/master/Picture/image.png)
+<p align="left">
+    <img src="https://github.com/Zihang97/Google-NLP/blob/master/Picture/image.png" width="400"/>
+</p>
