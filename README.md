@@ -1,7 +1,7 @@
 # Google-NLP
 Test on different Google NLP APIs and mainly focus on sentiment analysis
 
-## Command Line try
+## Command Line Exercise
 Following the steps in natural language API quickstarts
 1. Create a project called Project2-Sentiment Analysis on cloud console
 2. Enable billing and cloud natural language API
