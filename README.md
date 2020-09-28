@@ -40,7 +40,7 @@ But after I set up the proxy in environment, I get access to google language ser
 <p align="left">
     <img src="https://github.com/Zihang97/Google-NLP/blob/master/Picture/curl_succeed.PNG" width="600"/>
 </p>
-Then I ran my python script which succeeded.
+Then I ran my python script [Helloworld](https://github.com/Zihang97/Google-NLP/tree/master/Code/sentiment_no_function.py) which succeeded.
 <p align="left">
     <img src="https://github.com/Zihang97/Google-NLP/blob/master/Picture/hello_world.PNG" width="400"/>
 </p>
