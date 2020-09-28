@@ -63,3 +63,10 @@ The result of script [happy and joyful](https://github.com/Zihang97/Google-NLP/b
     <img src="https://github.com/Zihang97/Google-NLP/blob/master/Picture/happy and joyful.PNG" width="400"/>
 </p>
 
+The result of script [sad](https://github.com/Zihang97/Google-NLP/blob/master/Code/sentiment_analysis.py)
+
+<p align="left">
+    <img src="https://github.com/Zihang97/Google-NLP/blob/master/Picture/sad.PNG" width="400"/>
+</p>
+
+
