@@ -45,4 +45,4 @@ def sample_analyze_sentiment(text_content):
     # the automatically-detected language.
     print(u"Language of the text: {}".format(response.language))
 
-print(sample_analyze_sentiment('I am so happy and joyful.'))
+print(sample_analyze_sentiment('I am greatly sad.'))
