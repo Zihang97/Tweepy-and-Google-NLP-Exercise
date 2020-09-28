@@ -22,7 +22,7 @@ Succeed!
 ```
 gcloud ml language analyze-sentiment --content="I love puppies."
 ```
-Succeed!
+Succeed! (I found that we have to use double quotes here, using single quotes leading to one word read)
 <p align="left">
-    <img src="https://github.com/Zihang97/Google-NLP/blob/master/Picture/image.png" width="400"/>
+    <img src="https://github.com/Zihang97/Google-NLP/blob/master/Picture/Sentiment.PNG" width="200"/>
 </p>
