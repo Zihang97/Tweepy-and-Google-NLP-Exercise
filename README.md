@@ -57,4 +57,9 @@ Then I ran my python script [Hello world](https://github.com/Zihang97/Google-NLP
     <img src="https://github.com/Zihang97/Google-NLP/blob/master/Picture/hello_world.PNG" width="400"/>
 </p>
 
+The result of script [happy and joyful](https://github.com/Zihang97/Google-NLP/blob/master/Code/language_sentiment_text.py)
+
+<p align="left">
+    <img src="https://github.com/Zihang97/Google-NLP/blob/master/Picture/happy and joyful.PNG" width="400"/>
+</p>
 
