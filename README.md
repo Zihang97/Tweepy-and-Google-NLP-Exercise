@@ -1,3 +1,28 @@
+# Tweepy
+Explore the tweepy function
+## Grad the recent 20 tweets of specific user
+```
+public_tweets = api.user_timeline(username)
+for tweet in public_tweets:
+    print(tweet.text.encode('utf-8'))
+```
+
+<p align="left">
+    <img src="https://github.com/Zihang97/Tweepy-and-Google-NLP-Exercise/blob/master/Picture/user_timeline.PNG" width="600"/>
+</p>
+
+My print has some \x symbols as I ran it on windows, which is hard to deal with some utf codes.
+
+## Search tweets
+```
+alltweets=tweepy.Cursor(api.search,q='Tenet').items(1)
+for tweet in alltweets:
+	print(tweet.text.encode('utf-8'))
+```
+<p align="left">
+    <img src="https://github.com/Zihang97/Tweepy-and-Google-NLP-Exercise/blob/master/Picture/search.PNG" width="600"/>
+</p>
+
 # Google-NLP
 Test on different Google NLP APIs and mainly focus on sentiment analysis
 
@@ -18,7 +43,7 @@ gcloud ml language analyze-entities --content="Michelangelo Caravaggio, Italian 
 Succeed!
 
 <p align="left">
-    <img src="https://github.com/Zihang97/Google-NLP/blob/master/Picture/image.png" width="400"/>
+    <img src="https://github.com/Zihang97/Google-NLP/blob/master/Picture/image.png" width="600"/>
 </p>
 
 ### Sentiment
